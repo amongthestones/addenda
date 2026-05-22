@@ -1,6 +1,6 @@
 # Addenda
 
-A small WordPress plugin that ==brings four iA Writer authoring conventions to the front end==: `==highlights==`, `{{TOC}}`, H2–H3 anchors, and `[^inline footnotes]`.
+A small WordPress plugin that brings four iA Writer authoring conventions to the front end: `==highlights==`, `{{TOC}}`, H2–H3 anchors, and `[^inline footnotes]`.
 
 ---
 
